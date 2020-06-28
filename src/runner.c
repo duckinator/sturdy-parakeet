@@ -14,8 +14,8 @@
 static String fallback_resources[] = {
     "*input:    True",
     "*showGrip: off",
-    // regular slant; normal width; sans-serif; 20-29px; monospaced; unicode
-    "*font:   -*-*-*-r-normal-sans-2?-*-*-*-m-*-iso10646-*",
+    // regular slant; normal width; sans-serif; 30-39px; monospaced; unicode
+    "*font:   -*-*-*-r-normal-sans-3?-*-*-*-m-*-iso10646-*",
     "*paned.orientation:    Horizontal",
     "?.?.text.preferredPaneSize:    500",
     "?.?.text.textSource.editType:  edit",
